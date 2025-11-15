@@ -25,13 +25,13 @@ export default function About() {
               <div className="bg-gray-50 p-6 rounded-lg">
                 <h3 className="text-lg font-semibold text-gray-800 mb-2">GIS Solutions</h3>
                 <p className="text-gray-600">
-                  Custom Geographic Information System solutions for mapping, analysis, and data management.
+                  Geographic Information System solutions for mapping, analysis, and data management.
                 </p>
               </div>
               <div className="bg-gray-50 p-6 rounded-lg">
                 <h3 className="text-lg font-semibold text-gray-800 mb-2">Remote Sensing</h3>
                 <p className="text-gray-600">
-                  Satellite and aerial imagery analysis for environmental monitoring and urban planning.
+                  Satellite and aerial imagery analysis for environmental monitoring.
                 </p>
               </div>
               <div className="bg-gray-50 p-6 rounded-lg">
@@ -43,7 +43,7 @@ export default function About() {
               <div className="bg-gray-50 p-6 rounded-lg">
                 <h3 className="text-lg font-semibold text-gray-800 mb-2">Consulting</h3>
                 <p className="text-gray-600">
-                  Expert guidance on geospatial technology implementation and best practices.
+                  Expert guidance on geospatial AI implementation and best practices.
                 </p>
               </div>
             </div>
