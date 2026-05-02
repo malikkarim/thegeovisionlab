@@ -10,7 +10,7 @@ export default function People() {
       name: "Dr. Karim Malik",
       title: "Assistant Professor",
       image: "/people/geovision_lab_photos/IMG_1718.JPG",
-      bio: "Dr. Malik has over 15 years of experience in geographic information systems and remote sensing. He leads our research team in developing innovative mapping solutions for environmental monitoring and urban planning initiatives.",
+      bio: "Dr. Malik has over 10 years of experience in geographic information systems, remote sensing, computer vision, and deep learning. He leads our research team in developing innovative tools for environmental monitoring and change detection.",
       email: "karim.malik@uwindsor.ca",
       portfolio_page: "https://www.uwindsor.ca/science/environment/681/dr-karim-malik",
       location: "Windsor, ON"
@@ -20,7 +20,7 @@ export default function People() {
       name: "Isteyak",
       title: "Researcher",
       image: "/people/geovision_lab_photos/IMG_1690.jpg",
-      bio: "Isteyak specializes in satellite imagery analysis and machine learning applications for geospatial data. His work focuses on developing algorithms to extract patches of geospatial images and creating automated web scraping scripts to collect data from the internet.",
+      bio: "Isteyak specializes in satellite imagery analysis and machine learning applications for geospatial data. His work focuses on developing algorithms to extract features from geospatial data and creating automated web scraping scripts to collect data from the internet.",
       email: "isteyak@uwindsor.ca",
       location: "Windsor, ON"
     },
