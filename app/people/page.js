@@ -10,7 +10,7 @@ export default function People() {
       name: "Dr. Karim Malik",
       title: "Assistant Professor",
       image: "/people/geovision_lab_photos/IMG_1718.JPG",
-      bio: "Dr. Malik has over 15 years of experience in geographic information systems and remote sensing. He leads our research team in developing innovative mapping solutions for environmental monitoring and urban planning initiatives.",
+      bio: "Dr. Malik has over 10 years of experience in geographic information systems and remote sensing. He leads our research team in developing innovative mapping solutions for environmental monitoring and urban planning initiatives.",
       email: "karim.malik@uwindsor.ca",
       portfolio_page: "https://www.uwindsor.ca/science/environment/681/dr-karim-malik",
       location: "Windsor, ON"
